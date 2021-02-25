@@ -20,11 +20,11 @@
 	- Create/Import
 	- Views
 
-- Overview contacts
+- Overview contacts (for later use)
 	- Contacts is like a phonebook, storing contacts information of employees
 	- Demo:
 		- See the contact information of an Individual, Company
-		- Create a new contact
+		- Create a new contact (company)
 		- Search using filter or group
 		- Switch different views for different features
 
@@ -32,9 +32,11 @@
 - Overview CRM
 	- Purposes: manage sales team, opportunities
 	- Demo:
-		- Filter Company/Sales team
-		- Create a new sale team
+		- Filter Company/Sales team (for administrator)
+		- Create a new sale team (for administrator)
 		- Create opportunities
+			- create in Kanban view 
+			- create in lists view
 		- **Import opportunities** ([tài liệu](https://docs.google.com/document/d/1ENY5P7gjBctQf0rYLNGJBLauQNFkLoYB/edit))
 		- Basics operations on opportunities (drag and drop on Kanban View, mark Won/Lost)
 		- Switch to lists view
